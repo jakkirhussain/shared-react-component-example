@@ -4,9 +4,9 @@
   "description": "sadsa",
   "main": "build/index.js",
   "scripts": {
-    "build": "babel src -d build",
-    "prepare": "npm run build"
-  },
+   "build": "babel src -d build",
+   "prepare": "npm run build"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jakkirhussain/shared-react-component-example.git"
