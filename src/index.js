@@ -1,3 +1,3 @@
 import todaysDate from './date.js'
 
-export todaysDate as default;
+export default todaysDate;
