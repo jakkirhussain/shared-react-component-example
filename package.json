@@ -1,12 +1,12 @@
 {
   "name": "shared-react-component-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "sadsa",
   "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d build",
-    "prepare": "npm run build"
+    //"prepare": "npm run build"
   },
   "repository": {
     "type": "git",
